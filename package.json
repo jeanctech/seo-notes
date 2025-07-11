@@ -15,7 +15,7 @@
     "abab": "^2.0.6",
     "cuid": "^3.0.0",
     "domexception": "^4.0.0",
-    "glob": "^11.0.0",
+    "glob": "^11.0.3",
     "hexo": "^3.9.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
