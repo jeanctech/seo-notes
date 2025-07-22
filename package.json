@@ -1,37 +1,13 @@
 {
-  "name": "hexo",
-  "version": "0.0.0",
-  "private": true,
+  "name": "11ty-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "hexo": {
-    "version": "3.9.0"
-  },
-  "dependencies": {
-    "abab": "^2.0.6",
-    "cuid": "^3.0.0",
-    "domexception": "^4.0.0",
-    "glob": "^11.0.0",
-    "hexo": "^3.9.0",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-index": "^4.0.0",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.3.0",
-    "hexo-renderer-stylus": "^3.0.1",
-    "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0",
-    "inflight": "^1.0.6"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "hexo-util",
-      "highlight.js"
-    ]
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1"
 }
